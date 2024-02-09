@@ -47,6 +47,11 @@
 
 ### Version Control System (Git & Github)
 
+| Resource Name                          | Resource                                                                        |
+| -------------------------------------- | ------------------------------------------------------------------------------- |
+| Git and GitHub | شخبط وانت متطمن          | [https://youtu.be/7S_tz1z_5bA   ](https://www.youtube.com/watch?v=Q6G-J54vgKc)  |
+
+
 ### Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL.
 
 | Resource Name                                         | Resource                                                                 |
