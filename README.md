@@ -54,12 +54,12 @@
 
 ### Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL.
 
-| Resource Name                                         | Resource                                                                 |
-| ----------------------------------------------------- | ------------------------------------------------------------------------ |
-| PHP Tutorial for Absolute Beginners [English]         | https://youtu.be/yXzWfZ4N4xU                                             |
-| Full PHP Tutorial For Beginners & Advanced [English]  | https://www.youtube.com/playlist?list=PLr3d3QYzkw2xabQRUpcZ_IBk9W50M9pe- |
-| PHP 5.6 and MySQL 5.7 with eng.Mohamed yahia [Arabic] | https://www.youtube.com/playlist?list=PLrwRNJX9gLs3kkSDgCHFlpgL6qLrlHUBG |
-| PHP Bootcamp 2022 with eng.osama elzero [Arabic]      | https://www.youtube.com/playlist?list=PLDoPjvoNmBAy41u35AqJUrI-H83DObUDq |
+| Resource Name                                         | Resource             |
+| ----------------------------------------------------- | -------------------- |
+| PHP Tutorial for Absolute Beginners [English]         | https://rb.gy/oqpucy |
+| Full PHP Tutorial For Beginners & Advanced [English]  | https://rb.gy/c8ww7d |
+| PHP 5.6 and MySQL 5.7 with eng.Mohamed yahia [Arabic] | https://rb.gy/qeaj7n |
+| PHP 8 Bootcamp 2024 By Php Anonymous [Arabic]         | https://rb.gy/0qa0va |
 
 ### Understanding Composer
 
