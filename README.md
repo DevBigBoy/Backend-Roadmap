@@ -64,6 +64,11 @@
 ### Understanding Composer
 
 ### PHP beginner projects
+### Laravel
+
+| Resource Name                                       | Resource               |
+| --------------------------------------------------- | ---------------------- |
+| Laravel Livewire v3 [English]                       | https://bit.ly/4bSGrlB |
 
 ### Build custom MVC Framework
 
@@ -73,6 +78,5 @@
 
 ### Design Patterns
 
-#### Laravel
 
 ### Docker
