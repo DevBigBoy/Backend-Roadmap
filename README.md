@@ -17,6 +17,7 @@
 - 🔗 [Specificity Calculator](https://specificity.keegan.st/)
 - 🔗 [HTML Special Characters](https://unicode-table.com)
 - 🔗 [Can I Use](https://caniuse.com/)
+- 🔗 [Setup VSCode for Laravel Development](https://bit.ly/3R6lJXC)
 
 ---
 
