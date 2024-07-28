@@ -38,6 +38,12 @@
 
 ### Basics of JavaScript
 
+### Database Design
+
+| Resource Name                    | Resource               |
+| -------------------------------- | ---------------------- |
+| Building with Databases (Arabic) | https://bit.ly/3ValmMD |
+
 ### Introduction to Databases
 
 | Resource Name                          | Resource                                                                 |
@@ -45,13 +51,13 @@
 | MySQL Tutorial for Beginners [English] | https://youtu.be/7S_tz1z_5bA                                             |
 | PHP MySql Tutorial [Arabic]            | https://www.youtube.com/playlist?list=PLrwRNJX9gLs0WoqIcfdmI0wYOmxpE7JEZ |
 | PHP MySql Tutorial [Arbic]             | https://www.youtube.com/playlist?list=PLe_UJpVeP8qCHeTPVPc2gQXuQr7AniUbn |
+| MySQL Database Mohammed Safadi         | https://bit.ly/3WGEjbO                                                   |
 
 ### Version Control System (Git & Github)
 
-| Resource Name                          | Resource                                                                        |
-| -------------------------------------- | ------------------------------------------------------------------------------- |
-| Git and GitHub | شخبط وانت متطمن          | [https://youtu.be/7S_tz1z_5bA   ](https://www.youtube.com/watch?v=Q6G-J54vgKc)  |
-
+| Resource Name                    | Resource               |
+| -------------------------------- | ---------------------- |
+| Git and GitHub - شخبط وانت متطمن | https://bit.ly/4e96G9o |
 
 ### Getting Familiar with PHP: Syntax, functions, dates, JSON, File System, CURL.
 
@@ -65,11 +71,6 @@
 ### Understanding Composer
 
 ### PHP beginner projects
-### Laravel
-
-| Resource Name                                       | Resource               |
-| --------------------------------------------------- | ---------------------- |
-| Laravel Livewire v3 [English]                       | https://bit.ly/4bSGrlB |
 
 ### Build custom MVC Framework
 
@@ -79,5 +80,12 @@
 
 ### Design Patterns
 
+### Laravel
+
+### Laravel Packagies
+
+| Resource Name                 | Resource               |
+| ----------------------------- | ---------------------- |
+| Laravel Livewire v3 [English] | https://bit.ly/4bSGrlB |
 
 ### Docker
